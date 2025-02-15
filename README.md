@@ -2,10 +2,10 @@
 
 # Made By:
 
-Bordario, Sid Andre P.
-Calo, Cyril John Christian A.
-Lauron, John Enrico D.
-Sevilla, Chrys Sean T.
+Bordario, Sid Andre P.  
+Calo, Cyril John Christian A.  
+Lauron, John Enrico D.  
+Sevilla, Chrys Sean T.  
 
 # Introduction
 Kwartrack is a money-tracking application designed to address the growing need for financial literacy and management, particularly among Filipinos. The application empowers users by providing tools to track income, expenses, purchases, and small debts ("utang"), which are commonly overlooked in daily financial practices. With a focus on accessibility and ease of use, Kwartrack caters to students, small businesses, and individuals striving to manage their finances effectively.
