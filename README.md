@@ -1,3 +1,12 @@
+# CPE 2101L - OBJECT ORIENTED PROGRAMMING FINAL PROJECT
+
+# Made By:
+
+Bordario, Sid Andre P.
+Calo, Cyril John Christian A.
+Lauron, John Enrico D.
+Sevilla, Chrys Sean T.
+
 # Introduction
 Kwartrack is a money-tracking application designed to address the growing need for financial literacy and management, particularly among Filipinos. The application empowers users by providing tools to track income, expenses, purchases, and small debts ("utang"), which are commonly overlooked in daily financial practices. With a focus on accessibility and ease of use, Kwartrack caters to students, small businesses, and individuals striving to manage their finances effectively.
 The application not only simplifies financial tracking but also provides personalized insights, budgeting tools, and a "Financial Health Score" to encourage better financial habits. By integrating advanced features such as machine learning and gamification, Kwartrack goes beyond basic tracking to offer recommendations and incentives that align with users' financial goals. This project showcases how software development principles can solve real-world problems while fostering financial responsibility.
